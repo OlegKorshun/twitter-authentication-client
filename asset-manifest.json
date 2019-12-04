@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/twitter-authentication-client/static/css/main.d2b1d9c9.chunk.css",
-    "main.js": "/twitter-authentication-client/static/js/main.a5930d5a.chunk.js",
-    "main.js.map": "/twitter-authentication-client/static/js/main.a5930d5a.chunk.js.map",
+    "main.js": "/twitter-authentication-client/static/js/main.38bd1567.chunk.js",
+    "main.js.map": "/twitter-authentication-client/static/js/main.38bd1567.chunk.js.map",
     "runtime-main.js": "/twitter-authentication-client/static/js/runtime-main.da1ea1f6.js",
     "runtime-main.js.map": "/twitter-authentication-client/static/js/runtime-main.da1ea1f6.js.map",
     "static/js/2.479ba244.chunk.js": "/twitter-authentication-client/static/js/2.479ba244.chunk.js",
     "static/js/2.479ba244.chunk.js.map": "/twitter-authentication-client/static/js/2.479ba244.chunk.js.map",
     "index.html": "/twitter-authentication-client/index.html",
-    "precache-manifest.317761f99a347e1cd10950a847ea3419.js": "/twitter-authentication-client/precache-manifest.317761f99a347e1cd10950a847ea3419.js",
+    "precache-manifest.39aac7990e4e4e82b556f1f421c12e16.js": "/twitter-authentication-client/precache-manifest.39aac7990e4e4e82b556f1f421c12e16.js",
     "service-worker.js": "/twitter-authentication-client/service-worker.js",
     "static/css/main.d2b1d9c9.chunk.css.map": "/twitter-authentication-client/static/css/main.d2b1d9c9.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.da1ea1f6.js",
     "static/js/2.479ba244.chunk.js",
     "static/css/main.d2b1d9c9.chunk.css",
-    "static/js/main.a5930d5a.chunk.js"
+    "static/js/main.38bd1567.chunk.js"
   ]
 }

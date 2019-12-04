@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f3889550b741c0417277b18b5d0ee3a2",
+    "revision": "853ae2eafe4b9202840de62398ea6af0",
     "url": "/twitter-authentication-client/index.html"
   },
   {
-    "revision": "0e3fd18fd0fa524dc8ad",
+    "revision": "5bf44932208eba4adf74",
     "url": "/twitter-authentication-client/static/css/main.d2b1d9c9.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/twitter-authentication-client/static/js/2.479ba244.chunk.js"
   },
   {
-    "revision": "0e3fd18fd0fa524dc8ad",
-    "url": "/twitter-authentication-client/static/js/main.a5930d5a.chunk.js"
+    "revision": "5bf44932208eba4adf74",
+    "url": "/twitter-authentication-client/static/js/main.38bd1567.chunk.js"
   },
   {
     "revision": "a1c5f9824d8231f9f7f2",
