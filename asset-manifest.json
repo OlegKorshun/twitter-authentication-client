@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/OlegKorshun/twitter-authentication-client/static/css/main.d2b1d9c9.chunk.css",
-    "main.js": "/OlegKorshun/twitter-authentication-client/static/js/main.4289f7fa.chunk.js",
-    "main.js.map": "/OlegKorshun/twitter-authentication-client/static/js/main.4289f7fa.chunk.js.map",
-    "runtime-main.js": "/OlegKorshun/twitter-authentication-client/static/js/runtime-main.74457455.js",
-    "runtime-main.js.map": "/OlegKorshun/twitter-authentication-client/static/js/runtime-main.74457455.js.map",
-    "static/js/2.479ba244.chunk.js": "/OlegKorshun/twitter-authentication-client/static/js/2.479ba244.chunk.js",
-    "static/js/2.479ba244.chunk.js.map": "/OlegKorshun/twitter-authentication-client/static/js/2.479ba244.chunk.js.map",
-    "index.html": "/OlegKorshun/twitter-authentication-client/index.html",
-    "precache-manifest.195d8c9c7ea4106d9ca0b11fd6745622.js": "/OlegKorshun/twitter-authentication-client/precache-manifest.195d8c9c7ea4106d9ca0b11fd6745622.js",
-    "service-worker.js": "/OlegKorshun/twitter-authentication-client/service-worker.js",
-    "static/css/main.d2b1d9c9.chunk.css.map": "/OlegKorshun/twitter-authentication-client/static/css/main.d2b1d9c9.chunk.css.map"
+    "main.css": "/twitter-authentication-client/static/css/main.d2b1d9c9.chunk.css",
+    "main.js": "/twitter-authentication-client/static/js/main.4289f7fa.chunk.js",
+    "main.js.map": "/twitter-authentication-client/static/js/main.4289f7fa.chunk.js.map",
+    "runtime-main.js": "/twitter-authentication-client/static/js/runtime-main.da1ea1f6.js",
+    "runtime-main.js.map": "/twitter-authentication-client/static/js/runtime-main.da1ea1f6.js.map",
+    "static/js/2.479ba244.chunk.js": "/twitter-authentication-client/static/js/2.479ba244.chunk.js",
+    "static/js/2.479ba244.chunk.js.map": "/twitter-authentication-client/static/js/2.479ba244.chunk.js.map",
+    "index.html": "/twitter-authentication-client/index.html",
+    "precache-manifest.4105b68f1f2c29d535059264ca3e58c7.js": "/twitter-authentication-client/precache-manifest.4105b68f1f2c29d535059264ca3e58c7.js",
+    "service-worker.js": "/twitter-authentication-client/service-worker.js",
+    "static/css/main.d2b1d9c9.chunk.css.map": "/twitter-authentication-client/static/css/main.d2b1d9c9.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.74457455.js",
+    "static/js/runtime-main.da1ea1f6.js",
     "static/js/2.479ba244.chunk.js",
     "static/css/main.d2b1d9c9.chunk.css",
     "static/js/main.4289f7fa.chunk.js"
